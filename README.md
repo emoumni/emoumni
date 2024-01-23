@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+[![emoumni's 42 stats](https://badge.mediaplus.ma/darkblue/emoumni)](https://github.com/oakoudad/badge42)
 <!--
 **emoumni/emoumni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![emoumni's 42 stats](https://badge.mediaplus.ma/darkblue/emoumni)](https://github.com/oakoudad/badge42)
+
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
