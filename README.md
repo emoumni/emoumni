@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![emoumni's 42 stats](https://badge.mediaplus.ma/darkblue/emoumni)](https://github.com/oakoudad/badge42)
+[![emoumni's 42 stats](https://badge.mediaplus.ma/greenbinary/emoumni)](https://github.com/oakoudad/badge42)
 <!--
 **emoumni/emoumni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
